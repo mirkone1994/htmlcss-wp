@@ -69,18 +69,21 @@ h2 {
     font-weight: normal;
     color: #fff;
 }
-p {
+.loremup {
     padding-left: 50px;
     padding-right: 550px;
     font-size: 15px;
     font-weight: normal;
     color: #fff;
 }
+.hmain {
+    margin: 30px 0;
+}
 h1 {
     font-size: 40px;
     font-weight: 800;
 }
-span {
+.hspan {
     color: #c4c4c4;
 }
 .float{
@@ -127,4 +130,19 @@ span {
     background-position: center;
     border-radius: 10px;
     object-fit: cover;
+}
+h3 {
+    color: #858585;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+.lorem {
+    color: #a5a5a5
+}
+footer {
+    text-align: center;
+}
+.heart {
+    color: red;
 }
