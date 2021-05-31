@@ -108,6 +108,8 @@ h1 {
         rgba(0, 0, 0, 0.12), 
         rgba(0, 0, 0, 0.12)),
         url(../img/img-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
     border-radius: 10px;
 }
 .center {
@@ -117,6 +119,7 @@ h1 {
         rgba(0, 0, 0, 0.12)),
         url(../img/banner-2.jpg);
     background-position: center;
+    background-repeat: no-repeat;
     background-size: 90%;
     border-radius: 10px;
 }
@@ -129,7 +132,6 @@ h1 {
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 10px;
-    object-fit: cover;
 }
 h3 {
     color: #858585;
